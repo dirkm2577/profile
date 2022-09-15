@@ -57,6 +57,10 @@ i {
   border-radius: 5px;
 }
 
+.link-heading:hover {
+  color: rgb(47, 182, 255);
+}
+
 .list-inline {
   padding: 0;
 }

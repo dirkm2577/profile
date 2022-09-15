@@ -1,0 +1,28 @@
+.card {
+	height: 200px;
+	color: white;
+	background: linear-gradient(135deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3)), url('https://picsum.photos/200/300');
+	background-size: cover;
+	position: relative;
+}
+
+.card-category {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+
+}
+
+.card-description {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+
+}
+
+.card-image {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+
+}

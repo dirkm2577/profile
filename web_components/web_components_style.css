@@ -14,7 +14,7 @@
 /* --- Fonts --- */
 body {
   background-image: url("./images/Galaxy-Desktop-Wallpaper.jpg");
-  font-family: "Open Sans", "Helvetica", "sans-serif";
+  font-family: 'Montserrat', sans-serif;
   padding-bottom: 200px;
 }
 h1, h2, h3 {

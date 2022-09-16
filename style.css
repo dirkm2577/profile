@@ -4,15 +4,14 @@ body {
 }
 
 #profile-image {
-  width: 260px;
-  height: 290px;
+  width: 150px;
+  height: 180px;
   background: url("./images/Profile_Dirk_copy.jpg") no-repeat;
   background-size: cover;
   background-position: 0px;
   display: inline-flex;
   border-radius: 50%;
   box-shadow: 0 10px 30px rgb(0, 0, 0, 0.2);
-  opacity: 1;
 }
 
 #profile-image:hover {
